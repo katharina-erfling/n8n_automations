@@ -10,12 +10,12 @@ Dieser Workflow überwacht Gmail und schickt eine Telegram-Benachrichtigung wenn
 3. **Filter 2** – prüft ob "eil" im Betreff steht (trifft "eilt", "eilig", "Eile" etc.)
 4. **Telegram** – schickt eine Benachrichtigung mit Betreff der Mail
 
-<img width="354" height="102" alt="Screenshot 2026-04-03 203156" src="https://github.com/user-attachments/assets/a36e8e3f-9322-4227-b952-28d130b5684b" />
-
 
 ## Anwendungsfall
 
 Wichtige Mails von Vorgesetzten oder Kollegen gehen im Postfach unter. Dieser Workflow stellt sicher dass dringende Mails sofort als Telegram-Nachricht auf dem Handy ankommen – unabhängig davon ob du gerade im Postfach bist.
+
+<img width="354" height="102" alt="Screenshot 2026-04-03 203156" src="https://github.com/user-attachments/assets/a36e8e3f-9322-4227-b952-28d130b5684b" />
 
 
 ## Learnings
