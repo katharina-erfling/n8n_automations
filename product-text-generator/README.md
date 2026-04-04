@@ -1,3 +1,5 @@
+<img width="1466" height="627" alt="Screenshot 2026-04-04 172946" src="https://github.com/user-attachments/assets/3ca512e8-f75a-476d-bb5b-f42b645411a4" />
+
 # 🛒 Produkttextgenerator – Lilyversell
 
 Automatisierter Produkttextgenerator für den Lilyversell WooCommerce-Shop, gebaut mit n8n und Claude AI.
@@ -7,6 +9,9 @@ Automatisierter Produkttextgenerator für den Lilyversell WooCommerce-Shop, geba
 Dieses System generiert vollständige Produkteinträge auf Basis weniger Eingaben – und legt sie automatisch als Entwurf in WooCommerce an. Was früher manuell geschrieben, formatiert und eingetragen werden musste, passiert jetzt per Formular in Sekunden.
 
 Gebaut für Lilyversell – meinen eigenen Handmade-Shop – und direkt übertragbar auf jeden WooCommerce-basierten E-Commerce-Shop.
+
+<img width="519" height="527" alt="Screenshot 2026-04-04 173304" src="https://github.com/user-attachments/assets/09e98bf4-1bf9-4865-8686-02ff2797bf0a" />
+
 
 ## 💼 Business Value
 
