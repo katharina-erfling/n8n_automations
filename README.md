@@ -7,9 +7,9 @@ Der Fokus liegt auf Automatisierungen die im Alltag echten Mehrwert schaffen: we
 | Workflow | Beschreibung | Tools | Status |
 |----------|-------------|-------|--------|
 | [Gmail Alert](./gmail-alert/) | Echtzeit-Benachrichtigung bei dringenden E-Mails bestimmter Absender | Gmail API, Telegram | ✅ Fertig |
-| [Brand Monitoring](./brand-monitoring/) | Automatisches Marken-Monitoring mit KI-Sentiment-Analyse, Live-Dashboard und wöchentlichem Report | n8n, Claude AI, Google Alerts, Google Sheets, Looker Studio, Telegram, Gmail | ✅ Fertig |
-| [Produkttextgenerator](./product-text-generator/) | Automatische Produkttextgenerierung per Formular – direkt in WooCommerce als Entwurf | n8n, Claude AI, WooCommerce, Google Sheets, Yoast SEO | ✅ Fertig |
-| [Content Pipeline](./content-pipeline/) | End-to-End Content-Automatisierung: von SEO-Analyse über Themengenerierung bis zur automatischen Aufbereitung für Blog, Instagram und Pinterest | n8n, Claude AI, Google Search Console, Google Analytics, Google Keyword Planner, Google Trends, WordPress, Google Sheets | 🚧 In Arbeit |
+| [Brand Monitoring](./brand-monitoring/) | Automatisches Marken-Monitoring mit KI-Sentiment-Analyse, Live-Dashboard und wöchentlichem Report | Claude AI, Google Alerts, Google Sheets, Looker Studio, Telegram, Gmail | ✅ Fertig |
+| [Produkttextgenerator](./product-text-generator/) | Automatische Produkttextgenerierung per Formular – direkt in WooCommerce als Entwurf | Claude AI, WooCommerce, Google Sheets, Yoast SEO | ✅ Fertig |
+| [Content Pipeline](./content-pipeline/) | End-to-End Content-Automatisierung: von SEO-Analyse über Themengenerierung bis zur automatischen Aufbereitung für Blog, Instagram und Pinterest | Claude AI, Google Search Console, Google Analytics, Google Keyword Planner, Google Trends, WordPress, Google Sheets | 🚧 In Arbeit |
 
 ## Technologie
 Alle Workflows laufen auf n8n – lokal installiert, datenschutzfreundlich, keine Cloud-Abhängigkeit.
