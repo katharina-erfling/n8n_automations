@@ -8,6 +8,7 @@ Der Fokus liegt auf Automatisierungen die im Alltag echten Mehrwert schaffen: we
 |----------|-------------|-------|
 | [Gmail Alert](./gmail-alert/) | Echtzeit-Benachrichtigung bei dringenden E-Mails bestimmter Absender | Gmail API, Telegram |
 | [Brand Monitoring](./brand-monitoring/) | Automatisches Marken-Monitoring mit KI-Sentiment-Analyse, Live-Dashboard und wöchentlichem Report | n8n, Claude AI, Google Alerts, Google Sheets, Looker Studio, Telegram, Gmail |
+| [Produkttextgenerator](./product-text-generator/) | Automatische Produkttextgenerierung per Formular – direkt in WooCommerce als Entwurf | n8n, Claude AI, WooCommerce, Google Sheets, Yoast SEO |
 
 ## Technologie
 Alle Workflows laufen auf n8n – lokal installiert, datenschutzfreundlich, keine Cloud-Abhängigkeit.
